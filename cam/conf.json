@@ -4,11 +4,11 @@
 				"dropbox_key": "",
 				"dropbox_secret": "",
 				"dropbox_base_path":"",
-				"min_upload_seconds": 20.0,
-				"min_motion_frames": 8,
+				"min_upload_seconds": 0,
+				"min_motion_frames": 3,
 				"camera_warmup_time": 2.5,
 				"delta_thresh": 5,
 				"resolution": [640, 480],
-				"fps": 16,
-				"min_area":400
+				"fps": 24,
+				"min_area":500
 }
