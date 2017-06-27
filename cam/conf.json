@@ -5,10 +5,10 @@
 				"dropbox_secret": "",
 				"dropbox_base_path":"",
 				"min_upload_seconds": 0,
-				"min_motion_frames": 3,
+				"min_motion_frames": 4,
 				"camera_warmup_time": 2.5,
-				"delta_thresh": 5,
+				"delta_thresh": 10,
 				"resolution": [640, 480],
-				"fps": 24,
+				"fps": 36,
 				"min_area":500
 }
